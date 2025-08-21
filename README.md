@@ -43,7 +43,6 @@ Desde la raíz del proyecto:
 
 pytest -q main.py
 
-Para correr un test específico:
 
 🧪 Pruebas incluidas
 Setear ruta (origen/destino).
