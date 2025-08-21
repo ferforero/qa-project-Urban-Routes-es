@@ -1,0 +1,32 @@
+# --- Python / build ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# --- Entornos virtuales ---
+venv/
+.venv/
+ENV/
+env/
+
+# --- Pytest / cobertura ---
+.pytest_cache/
+.coverage
+htmlcov/
+
+# --- Logs / temporales ---
+*.log
+*.tmp
+.cache/
+
+# --- IDEs / editores ---
+.idea/
+.vscode/
+
+# --- macOS ---
+.DS_Store
+
+# --- Variables de entorno / secretos ---
+.env
+.env.*
